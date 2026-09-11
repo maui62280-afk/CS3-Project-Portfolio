@@ -9,8 +9,8 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
+| **Team Members**           | 1.  Name 1    |
+|                            | 2.  Name 2    |
 |                            | 3.      |
 |                            | 4.      |
 |                            | 5.      |
