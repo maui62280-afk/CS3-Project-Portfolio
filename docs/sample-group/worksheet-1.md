@@ -12,9 +12,9 @@
 | **Team Members**           | 1. Sample student 1     |
 |                            | 2. Sample Student 2     |
 |                            | 3. sample student 3     |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
+|                            | 4. Sample student 4     |
+|                            | 5. Sample student 5     |
+|                            | 6. Sample student 6     |
 | **PSHS-DRC Area/Location** |         |
 
 ---
@@ -29,7 +29,7 @@
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> this is a sample answer... 
 
 <br>
 
